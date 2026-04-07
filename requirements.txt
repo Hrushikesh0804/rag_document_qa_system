@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+torch
+chromadb
+pypdf
+python-docx
+beautifulsoup4
+markdown
+ipywidgets
